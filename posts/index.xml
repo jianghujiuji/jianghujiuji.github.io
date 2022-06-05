@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - 我的全新 Hugo 网站</title>
+        <link>https://jianghujiuji.github.io/posts/</link>
+        <description>All Posts | 我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 27 May 2022 11:43:12 &#43;0800</lastBuildDate><atom:link href="https://jianghujiuji.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://jianghujiuji.github.io/posts/first_post/</link>
+    <pubDate>Fri, 27 May 2022 11:43:12 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://jianghujiuji.github.io/posts/first_post/</guid>
+    <description><![CDATA[黄金是人类共识的财富资本 黄金是唯一具有作为货币所需的全部必要特性（稀缺性、延展性、惰性、耐用性和均匀性）的元素，可以作为可靠并且实用的价值贮]]></description>
+</item>
+</channel>
+</rss>
