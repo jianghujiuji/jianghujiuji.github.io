@@ -3,9 +3,17 @@
         <title>我的全新 Hugo 网站</title>
         <link>https://jianghujiuji.github.io/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 05 Jun 2022 11:59:41 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 06 Jun 2022 11:29:52 &#43;0800</lastBuildDate>
             <atom:link href="https://jianghujiuji.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>how to lose time and money</title>
+    <link>https://jianghujiuji.github.io/posts/third/</link>
+    <pubDate>Mon, 06 Jun 2022 11:29:52 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://jianghujiuji.github.io/posts/third/</guid>
+    <description><![CDATA[2010年7月，当我们在1998年出售我们的初创公司时，我突然得到了很多钱。我现在不得不考虑一些我以前不必考虑的事情：如何不失去它。我知道从]]></description>
+</item>
+<item>
     <title>Second</title>
     <link>https://jianghujiuji.github.io/posts/second/</link>
     <pubDate>Sun, 05 Jun 2022 11:59:41 &#43;0800</pubDate>
